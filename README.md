@@ -2,7 +2,7 @@
 
 The task of this project is a customer segmentation report for Arvato Financial Services. The data has been provided by Bertelsmann Arvato Analytics and is notpublic available. This is a real-life data science task.
 
-To get an overview of the project please look at the [proposal] (https://github.com/felix-ha/capstone_project/blob/master/proposal.pdf). In the project [report](https://github.com/felix-ha/capstone_project/blob/master/project_report.pdf) you can find the results of the project.
+To get an overview of the project please look at the [proposal](https://github.com/felix-ha/capstone_project/blob/master/proposal.pdf). In the project [report](https://github.com/felix-ha/capstone_project/blob/master/project_report.pdf) you can find the results of the project.
 
 All the code I used for the project is executed and documented in this [notebook](https://github.com/felix-ha/capstone_project/blob/master/Arvato%20Project%20Workbook.ipynb). 
 
